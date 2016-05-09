@@ -1,0 +1,7 @@
+name             'chef-handler-sensu'
+maintainer       'socrata'
+maintainer_email 'sysadmin@socrata.com'
+license          'All rights reserved'
+description      'Creates a sensu chef handler'
+long_description 'Creates a sensu chef handler to delete unused sensu checks.'
+version          '0.1.0'
